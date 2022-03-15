@@ -10,7 +10,7 @@ Im 13 years old and have future intentions with becoming a Software Engineer and
 • My Favorate colors are Blue and red <br />
 • I really enjoy listening to Rap and Hip-hop music
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clapps-lmao)](https://github.com/anuraghazra/github-readme-stats) <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clapps-lmao&show_icons=true&theme=Graident) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clapps-lmao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Socials
