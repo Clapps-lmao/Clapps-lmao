@@ -1,18 +1,17 @@
 ### Hey 👋 it's me, Clapps
 #
 ### A little bit about myself
-Im 13 years old and have future intentions with becoming a Software Engineer and/or Ethical Hacker. I self taught myself and learned a little bit of Python and HTML but still do not know the full languages. <br />
+Im 13 years old and have future intentions with becoming a Software Engineer and/or Ethical Hacker. I self taught myself and learned a little bit of Python and most of HTML but still do not know the full languages. <br />
 <br />
-• I have 3 dogs <br />
+• I have 2 dogs <br />
 • I ocassionally stream on twitch <br />
 • I love video games <br />
-• Im Currently learning some more about HTML <br />
 • My Favorate colors are Blue and red <br />
 • I really enjoy listening to Rap and Hip-hop music
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clapps-lmao&show_icons=true&theme=dark) <br />
 
-## My Socials
+## My Main Socials
 
 [![Twitch_btn](https://user-images.githubusercontent.com/90117687/158258278-e8d7edf6-e4b2-451b-bcbb-f1f00d3cca34.png) ](https://twitch.tv/not_clapps)
 
