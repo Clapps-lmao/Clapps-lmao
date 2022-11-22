@@ -1,7 +1,7 @@
 ### Hey 👋 it's me, Clapps
 #
 ### A little bit about myself
-Im 13 years old and have future intentions with becoming a Software Engineer and/or Ethical Hacker. I self taught myself and learned a little bit of Python and most of HTML but still do not know the full languages. <br />
+Im 14 years old and have future intentions with becoming a Software Engineer and/or Ethical Hacker. I self taught myself and learned a little bit of Python and most of HTML but still do not know the full languages. <br />
 <br />
 • I have 2 dogs <br />
 • I ocassionally stream on twitch <br />
