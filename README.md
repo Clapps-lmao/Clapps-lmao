@@ -10,11 +10,3 @@ Im 15 years old and have future intentions with becoming a Software Engineer and
 • I really enjoy listening to Rap and Hip-hop music
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clapps-lmao&show_icons=true&theme=dark) <br />
-
-## My Main Socials
-
-[![Twitch_btn](https://user-images.githubusercontent.com/90117687/158258278-e8d7edf6-e4b2-451b-bcbb-f1f00d3cca34.png) ](https://twitch.tv/not_clapps)
-
-[![Steam_btn](https://user-images.githubusercontent.com/90117687/158259091-f3aeaae0-02b3-4b3f-9592-bb956fe8cfd1.png)](https://steamcommunity.com/profiles/76561198851455327/)
-
-[![Discord_btn](https://user-images.githubusercontent.com/90117687/158259194-d63f0a2a-ea94-4bda-a613-755ce43bbe0d.png)](https://discord.gg/szEsbfqcJv)
